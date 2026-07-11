@@ -5,24 +5,22 @@
      python scripts/make_ascii_svg.py ; info panel: python scripts/make_info_card.py -->
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Avi Vashishta — experience, stack, highlights" /></td>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Amit Patil — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Amit Patil — experience, stack, highlights" /></td>
 </tr>
 </table>
 
-## Avi Vashishta
+## Amit Patil
 
-**Fullstack Developer · AI Builder · Instructor**
+**Full-stack Developer · Backend Engineer · B.Tech CS Student**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avivashishta)
-[![Instagram](https://img.shields.io/badge/Instagram-avi__vashishta29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avi_vashishta29)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-imamit--psi.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://imamit-psi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amit--patil06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-patil06)
 
 <br>
 
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<img src="./contrib-heatmap.svg" width="860" alt="Amit's GitHub contribution graph — auto-refreshed daily" />
 
 </div>
