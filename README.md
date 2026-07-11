@@ -10,8 +10,8 @@
 
 **Full-stack Developer · Backend Engineer · B.Tech CS Student**
 
-<a href="https://imamit-psi.vercel.app" target="_blank" rel="noopener noreferrer">
-     <img src="https://img.shields.io/badge/Portfolio-imamit--psi.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<a href="https://amitpatil.tech" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/Portfolio-amitpatil.tech-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/amit-patil06" target="_blank" rel="noopener noreferrer">
      <img src="https://img.shields.io/badge/LinkedIn-amit--patil06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
