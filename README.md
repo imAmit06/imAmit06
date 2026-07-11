@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./info-card.svg" width="760" alt="Amit Patil — experience, stack, highlights" /></td>
+<td valign="top"><img src="./info-card.svg" width="480" alt="Amit Patil — experience, stack, highlights" /></td>
 </tr>
 </table>
 
