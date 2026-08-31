@@ -1,22 +1,22 @@
 {
   "username": "imAmit06",
-  "generated_at": "2026-08-30T11:53:54Z",
+  "generated_at": "2026-08-31T13:47:38Z",
   "range": {
     "start": "2025-08-31",
-    "end": "2026-08-30"
+    "end": "2026-08-31"
   },
-  "total_contributions": 254,
-  "active_days": 101,
+  "total_contributions": 256,
+  "active_days": 102,
   "avg_per_active_day": 2.5,
   "current_streak": {
-    "length": 50,
+    "length": 51,
     "start": "2026-07-11",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "longest_streak": {
-    "length": 50,
+    "length": 51,
     "start": "2026-07-11",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "best_day": {
     "date": "2026-07-06",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 32
+      "total": 34
     }
   ],
   "days": [
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-08-30",
+      "count": 2
+    },
+    {
+      "date": "2026-08-31",
       "count": 0
     }
   ]
